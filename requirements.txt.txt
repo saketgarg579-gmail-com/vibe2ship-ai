@@ -1,0 +1,11 @@
+streamlit
+streamlit-autorefresh
+streamlit-calendar
+streamlit-lottie
+google-generativeai
+twilio
+pymongo
+dnspython
+python-dotenv
+PyPDF2
+requests
